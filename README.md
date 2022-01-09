@@ -1,2 +1,1 @@
-# steam_scrape
-Scraping Steam Website Using lxml Library
+# Scraping Steam Website Using lxml Library
